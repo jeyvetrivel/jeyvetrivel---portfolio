@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1000" viewBox="0 0 800 1000">
+  <defs>
+    <linearGradient id="pg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#161616"/>
+      <stop offset="100%" stop-color="#040404"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="1000" fill="url(#pg)"/>
+  <rect x="0.5" y="0.5" width="799" height="999" fill="none" stroke="rgba(255,255,255,0.14)" stroke-width="1"/>
+  <circle cx="400" cy="420" r="140" fill="none" stroke="rgba(255,255,255,0.25)" stroke-width="2"/>
+  <path d="M240 780 Q400 600 560 780 L560 1000 L240 1000 Z" fill="none" stroke="rgba(255,255,255,0.25)" stroke-width="2"/>
+  <text x="400" y="900" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" letter-spacing="4" fill="rgba(255,255,255,0.45)">PORTRAIT PLACEHOLDER</text>
+</svg>
